@@ -1,6 +1,6 @@
 ### Predicting Oscar Nods
 
-I worked on this project over the course of 2 weeks during my time at Metis data science bootcamp, summer 2018.  In this project, I attempted to predict oscar nominations using poisson and ordinary least squares regression on data scraped from Box Office Mojo and The Numbers.
+I worked on this project over the course of 2 weeks during my time at Metis data science bootcamp, summer 2018.  In this project, I attempted to predict oscar nominations using poisson and ordinary least squares regression on data scraped from Box Office Mojo and The Numbers. You check out my blog post on it [here](https://kaszklar.github.io/oscar-nods/).
 
 
 #### Files
